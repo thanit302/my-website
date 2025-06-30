@@ -1,6 +1,6 @@
 git clone https://github.com/thanit302/my-website.git
 cd my-website
-@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
+ [Upload@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap');
 
 * {
     margin: 0;
@@ -65,7 +65,7 @@ cd my-website
   
   #no-btn {
     cursor: not-allowed;
-  }ading arm.css…]()
+  }ing arm.css…]()
 
 git add .
 git commit -m "<!DOCTYPE html>
@@ -92,5 +92,6 @@ git commit -m "<!DOCTYPE html>
 
   <script src="scrips.js"></script>
 </body>
-</html> "
+</html>"
 git push origin main
+    
